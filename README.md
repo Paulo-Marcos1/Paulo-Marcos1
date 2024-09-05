@@ -33,9 +33,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Paulo-Marcos1/Paulo-Marcos1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Paulo-Marcos1/Paulo-Marcos1/output/snake.svg" alt="Snake animation" />
-
 ###
